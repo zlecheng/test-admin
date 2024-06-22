@@ -1,0 +1,1 @@
+import{_ as s}from"./AppPage-QWanEA4T.js";import{w as t,z as o,A as r,B as c,J as n,C as _}from"./index-DNQY-kEr.js";const u=["src"],d={__name:"index",setup(f){const e=t();return(l,m)=>{const a=s;return o(),r(a,{full:""},{default:c(()=>[n("iframe",{src:_(e).meta.originPath,frameborder:"0",class:"wh-full"},null,8,u)]),_:1})}}};export{d as default};
